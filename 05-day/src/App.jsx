@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Grid from './Grid'
 import Col_Span from './Col_Span'
+import Mini_Project from './Mini_Project'
 function App() {
   
 
@@ -13,6 +14,7 @@ function App() {
     
     <Grid/>
     <Col_Span />
+    <Mini_Project/>
 
 
      

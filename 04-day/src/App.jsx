@@ -9,7 +9,7 @@ function App() {
   return (
     <>
 
-      <div className='flex  gap-20 justify-center  items-center h-100 p-30' >
+      <div className='flex  flex-col gap-20 justify-center  items-center h-300 p-30' >
         <div className='flex bg-sky-400 w-70 p-5 flex-col text-white  items-center'>
           <img className='h-50 border rounded-sm' src="https://images.unsplash.com/photo-1761839258044-e59f324b5a7f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4fHx8ZW58MHx8fHx8" alt="" />
           <p>image 1</p>

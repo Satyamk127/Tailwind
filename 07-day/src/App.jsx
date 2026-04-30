@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Comp from './Comp'
 import Form from './Form'
+import MinProject from './MinProject'
 
 function App() {
  
@@ -15,6 +16,7 @@ function App() {
 
     <Comp/>
     <Form/>
+    <MinProject/>
 
      
      

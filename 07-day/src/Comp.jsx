@@ -6,7 +6,7 @@ function Comp() {
   return (
     <>
 
-      <div className="bg-white p-4 rounded-lg shadow-lg w-60 flex-col justify-center  flex items-center h-30">
+      <div className="bg-white p-4 rounded-lg shadow-lg w-60 flex-col justify-center  flex items-center h-40">
         <h2 className="text-xl font-bold">Title</h2>
         <p className="text-gray-500">This is a card</p>
       </div>

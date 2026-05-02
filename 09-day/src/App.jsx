@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Nav from './Nav'
 import Hero from './Hero'
+import Card from './Card'
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
     <>
     <Nav/>
     <Hero/>
+    <Card/>
     <h1 className=''>Thsi is my major Project Implented my satyam keshari </h1>
       
       

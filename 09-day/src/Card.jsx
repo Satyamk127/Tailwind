@@ -12,7 +12,7 @@ function Card() {
         <div className="bg-black border border-red-800  text-center p-4 rounded-lg shadow-lg">
           <img src="https://plus.unsplash.com/premium_photo-1776981820574-8e9e3ba40109?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxMDJ8fHxlbnwwfHx8fHw%3D" className="border border-red-800 rounded-2xl" alt="" />
           <h2 className="font-bold text-xl text-white mt-5 text-center">Card 2</h2>
-          <p className="text-gray-500">Description</p>
+          <p className="text-gray-500">Description 1</p>
         </div>
 
         <div className="bg-black border text-center text-white border-red-800 p-4 rounded-lg shadow-lg">

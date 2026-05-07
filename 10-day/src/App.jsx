@@ -19,7 +19,7 @@ function App() {
           <div>Enterprise</div></div>
 
         <div className='flex gap-5'>
-          <div>Loing</div>
+          <div className='bg-red-500'>Loing</div>
           <div><button>Get Started</button></div>
         </div>
       </div>

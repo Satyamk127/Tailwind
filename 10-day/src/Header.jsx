@@ -3,7 +3,7 @@ function Header() {
     <>
       <div className="bg-sky-100  flex flex-col h-screen justify-center items-center">
         <h1 className=" mx-100 p-4 text-black text-8xl">
-          Creating a Website Without Use limits  and lock like a good image in the area
+          Creating a Website Without Use limits  
 
         </h1>
         <p className="mt-5 mx-140 ">

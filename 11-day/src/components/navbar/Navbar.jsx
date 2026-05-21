@@ -7,7 +7,7 @@ const Navbar = () => {
     <nav className="
     sticky top-0 z-50
     backdrop-blur-xl
-    bg-white/10
+    bg-white/10     
     border-b border-white/10
     ">
 
@@ -21,6 +21,7 @@ const Navbar = () => {
           to="/"
           className="
           text-3xl font-bold
+          p-4
           bg-gradient-to-r
           from-blue-400
           to-cyan-400
@@ -35,7 +36,7 @@ const Navbar = () => {
 
           <Link
             to="/"
-            className="hover:text-blue-400"
+            className="hover:text-blue-400 bg-red-700 p-4  m-2.5"
           >
             Home
           </Link>
